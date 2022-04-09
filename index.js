@@ -27,6 +27,8 @@ function totalSales(shirts, pent, shoes) {
 
 console.log(totalSales(2, 2, 2));
 
+
+//function deliveryCost
 function deliveryCost(shirts) {
   if (shirts > 0) {
     if (shirts <= 100) {
@@ -50,6 +52,8 @@ function deliveryCost(shirts) {
 // get your shirts delivery costs
 const myShirt = deliveryCost(101);
 console.log(myShirt);
+
+
 
 //find oddFriend
 
