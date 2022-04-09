@@ -62,6 +62,6 @@ function findOddFriend(array) {
   }
   return oddFriend;
 }
-const friends = ["abc", "ab", "abcde", "abc"];
+const friends = ["abc", "ab", "abcde", "abce"];
 
 console.log(findOddFriend(friends));
